@@ -1,0 +1,4 @@
+name: EzCommand
+version: '${project.version}'
+main: me.distruzionee.ezcommand.Main
+api-version: 1.19
